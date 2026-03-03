@@ -1,7 +1,7 @@
 # Google Sheets Dynamic Business Calendar (Apps Script)
 
 # Overview
-This project is a Google Apps Script automation that dynamically generates
+This project is a Google AppsScript automation that dynamically generates
 a financial-year calendar (July–June) in Google Sheets.
 
 It automatically:
@@ -22,9 +22,6 @@ It automatically:
 - Google Apps Script (JavaScript)
 - Google Sheets API
 
-# Use Case
-Designed for businesses to track:
-- Working days
-- Holidays
-- Operational planning
+# How to use
+- Paste the code in Google Sheets Extension Feture called AppScript. 
 
